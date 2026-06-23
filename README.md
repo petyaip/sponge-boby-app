@@ -24,6 +24,6 @@ Responsibilities: programming, interaction design, audio production.
 
 ## 📸 Screenshots
 
-| Main Screen | Game Screen | Results |
-|-------------|-------------|---------|
+| Main Screen | Menu Screen |   Game  |   Game  |
+|-------------|-------------|---------|---------|
 | ![Main](Screenshots/scrsh-main.webp) | ![Menu](Screenshots/scrsh-menu.webp) | ![Game](Screenshots/scrsh-feed-cow.webp) | ![Game](Screenshots/scrsh-collect-fruits.webp) |
