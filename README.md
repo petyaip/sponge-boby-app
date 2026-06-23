@@ -23,4 +23,7 @@ Developed in collaboration with a partner.
 Responsibilities: programming, interaction design, audio production.
 
 ## 📸 Screenshots
-![Main Screen](Screenshots/scrsh-main.webp)
+
+| Main Screen | Game Screen | Results |
+|-------------|-------------|---------|
+| ![Main](Screenshots/scrsh-main.webp) | ![Menu](Screenshots/scrsh-menu.webp) | ![Game](Screenshots/scrsh-feed-cow.webp) | ![Game](Screenshots/scrsh-collect-fruits.webp) |
