@@ -23,3 +23,4 @@ Developed in collaboration with a partner.
 Responsibilities: programming, interaction design, audio production.
 
 ## 📸 Screenshots
+![Main Screen](Screenshots/scrsh-main.webp)
