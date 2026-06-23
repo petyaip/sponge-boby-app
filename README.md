@@ -1,4 +1,4 @@
-# sponge-boby-app
+# Sponge Boby
 Interactive educational app for children aged 3-4 | NOIT 2019 National Finalist
 
 ## Available on Google Play
